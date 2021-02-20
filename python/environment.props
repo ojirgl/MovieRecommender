@@ -1,0 +1,11 @@
+{
+"postgres":{
+        "user": "postgres",
+        "pwd": "9q7f4cop",
+        "dbname": "tvapp",
+        "host_url": "localhost",
+        "schema": "public",
+        "port": 5432 }
+}
+
+
